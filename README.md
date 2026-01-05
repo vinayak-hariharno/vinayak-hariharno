@@ -27,7 +27,7 @@
 ---
 
 <h2 align="center">✨ Fun Fact</h2>
-<h3 align="center">I enjoy combining **data + logic + creativity** to build meaningful projects 🚀</h3>
+<h3 align="center">I enjoy combining data + logic + creativity to build meaningful projects 🚀</h3>
 
 ---
 
