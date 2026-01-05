@@ -1,8 +1,10 @@
+![MasterHead](https://github.com/Khaliditsme/Khaliditsme/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Vinayak Hariharno</h1>
 <h3 align="center">🎓 B.Tech Student | 🐍 Python Developer | 📊 Data Analysis Enthusiast  </h3>
 <h3 align="center">I’m a passionate learner who enjoys building real-world projects using Python, Streamlit, and Data Analysis tools. I love exploring how technology can solve everyday problems.</h3>
 
 --- 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/740253ff45f19eb5ab959e9698a2080286c1721c16fa8a66e3ac70792764c565/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4434453132415147575a414f6e4c44526151772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635363637393834343333383f653d3231343734383336343726763d6265746126743d4c58756943795a6768537068547652526d453756486b653874593964557a316f364e5445726c6262497451">
 
 <h2 align="left">🚀 Skills & Technologies</h2>
 <h3 align="left">Languages: Python, C  </h3>
